@@ -1,3 +1,4 @@
+[OLD & SUB PAR QUALITY CODE, MOVE ON NEXT]
 USES BASIC SYSTEM CALLS TO IMPLIMENT COPY FEAUTURE BETWEEN TEXT FILES 
 open() , read(), write(),close(), fstat() and more
 
